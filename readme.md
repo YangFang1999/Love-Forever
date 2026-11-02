@@ -27,7 +27,7 @@
   ## 如何运行
 
   1. 电脑如果安装了java环境直接运行 .exe 文件即可;
-  2. 电脑中无java环境则下载仓库中的 jre 文件,将 jre 文件和 .exe 文件放在<u>同一根目录</u>下,然后运行.exe文件即可![1](image/1.png)
+  2. 电脑中无java环境则到 [Releases 页面](https://github.com/YangFang1999/Love-Forever/releases) 下载 `jre.zip` 并解压,将解压出的 `jre` 文件夹和 .exe 文件放在<u>同一根目录</u>下,然后运行.exe文件即可![1](image/1.png)
 
   ## 效果展示
 
